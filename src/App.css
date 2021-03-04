@@ -24,4 +24,7 @@ h1 {
 }
 select {
   margin-left: 1rem;
+  width: 4.5em;
+  padding: 0.25rem;
+  background-color: khaki;
 }
