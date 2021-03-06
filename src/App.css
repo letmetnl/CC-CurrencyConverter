@@ -9,32 +9,3 @@ body {
 .App {
   text-align: center;
 }
-h1 {
-  margin: 0;
-  margin-bottom: 1rem;
-  color: rgb(44, 94, 4);
-}
-h3 {
-  font-size: larger;
-  font-weight: bolder;
-  color: rgb(63, 66, 236);
-  margin-top: -20vh;
-  font-style: italic;
-  /* padding: 5px; */
-}
-.input {
-  border: 1px solid rgb(41, 29, 29);
-  border-radius: 0.3em;
-  padding: 0.35rem;
-  width: 8em;
-}
-.equals {
-  font-size: 2rem;
-  font-weight: bold;
-}
-select {
-  margin-left: 1rem;
-  width: 4.5em;
-  padding: 0.25rem;
-  background-color: khaki;
-}
